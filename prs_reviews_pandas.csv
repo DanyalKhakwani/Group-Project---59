@@ -1,0 +1,389 @@
+pr_id,pr_author,reviewed_by,review_state,review_text,reviewed_at
+65628,jbrockmendel,mroeschke,APPROVED,,2026-05-13T17:17:17Z
+65627,jbrockmendel,mroeschke,APPROVED,,2026-05-13T16:46:55Z
+65624,jbrockmendel,mroeschke,COMMENTED,,2026-05-13T16:50:18Z
+65624,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-13T17:04:02Z
+65624,jbrockmendel,mroeschke,APPROVED,,2026-05-13T17:18:12Z
+65623,jbrockmendel,mroeschke,APPROVED,,2026-05-13T16:51:05Z
+65622,jbrockmendel,mroeschke,APPROVED,,2026-05-13T16:52:11Z
+65621,jbrockmendel,mroeschke,APPROVED,,2026-05-13T16:53:05Z
+65619,jbrockmendel,mroeschke,APPROVED,,2026-05-13T16:53:47Z
+65618,jbrockmendel,Dr-Irv,COMMENTED,,2026-05-13T14:06:56Z
+65618,jbrockmendel,Dr-Irv,COMMENTED,I'm fine with this - just had one question about the exclusions for `mypy`,2026-05-13T14:08:35Z
+65618,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-13T14:18:00Z
+65618,jbrockmendel,Dr-Irv,COMMENTED,,2026-05-13T14:26:25Z
+65618,jbrockmendel,Dr-Irv,APPROVED,thanks @jbrockmendel ,2026-05-13T14:26:43Z
+65616,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:12:19Z
+65614,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:16:14Z
+65613,jbrockmendel,mroeschke,APPROVED,Thanks @jbrockmendel ,2026-05-12T16:16:59Z
+65612,jbrockmendel,mroeschke,APPROVED,Thanks @jbrockmendel ,2026-05-12T16:17:37Z
+65611,jbrockmendel,mroeschke,APPROVED,,2026-05-12T19:21:24Z
+65610,jbrockmendel,mroeschke,APPROVED,Thanks @jbrockmendel ,2026-05-12T16:18:47Z
+65605,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:21:51Z
+65600,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:29:23Z
+65599,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:27:37Z
+65598,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:31:15Z
+65596,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:25:59Z
+65594,jbrockmendel,mroeschke,COMMENTED,,2026-05-12T16:24:47Z
+65594,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-12T17:13:15Z
+65594,jbrockmendel,mroeschke,APPROVED,,2026-05-12T17:47:20Z
+65591,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-05-11T20:20:10Z
+65591,jbrockmendel,mroeschke,APPROVED,,2026-05-12T00:27:25Z
+65585,jorisvandenbossche,jbrockmendel,APPROVED,,2026-05-11T16:17:10Z
+65582,jbrockmendel,mroeschke,APPROVED,,2026-05-12T16:33:06Z
+65579,StanFromIreland,mroeschke,APPROVED,,2026-05-11T15:17:56Z
+65578,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:34:50Z
+65566,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:22:19Z
+65565,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:20:26Z
+65563,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:24:13Z
+65562,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:39:13Z
+65561,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:43:01Z
+65560,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:45:49Z
+65556,Alvaro-Kothe,jbrockmendel,COMMENTED,,2026-05-11T21:03:38Z
+65556,Alvaro-Kothe,Alvaro-Kothe,COMMENTED,,2026-05-11T21:42:07Z
+65555,sun-0-set,jbrockmendel,COMMENTED,,2026-05-11T21:04:59Z
+65555,sun-0-set,jbrockmendel,COMMENTED,,2026-05-11T21:05:56Z
+65555,sun-0-set,sun-0-set,COMMENTED,,2026-05-12T02:00:59Z
+65554,pradipgirhe,rhshadrach,CHANGES_REQUESTED,"No strong objection, but the new error message doesn't add anything significant to me and is more churn than anything else. I'd opt for making no change here, but okay others think this is an improvement.",2026-05-09T14:49:08Z
+65549,jbrockmendel,mroeschke,APPROVED,,2026-05-08T23:51:38Z
+65548,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:25:26Z
+65547,jbrockmendel,mroeschke,APPROVED,,2026-05-08T23:52:38Z
+65545,jbrockmendel,rhshadrach,APPROVED,lgtm,2026-05-09T11:58:50Z
+65544,jbrockmendel,mroeschke,APPROVED,,2026-05-08T23:56:20Z
+65543,jbrockmendel,mroeschke,APPROVED,,2026-05-08T23:58:01Z
+65542,jbrockmendel,mroeschke,APPROVED,,2026-05-08T23:59:31Z
+65541,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:00:35Z
+65540,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:01:32Z
+65539,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:02:25Z
+65538,jbrockmendel,rhshadrach,COMMENTED,,2026-05-09T11:41:57Z
+65538,jbrockmendel,rhshadrach,APPROVED,lgtm,2026-05-09T15:31:55Z
+65538,jbrockmendel,mroeschke,APPROVED,,2026-05-11T15:47:32Z
+65537,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:03:50Z
+65535,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:05:06Z
+65534,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:06:01Z
+65533,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:07:49Z
+65533,jbrockmendel,rhshadrach,APPROVED,lgtm,2026-05-09T11:52:55Z
+65532,jbrockmendel,mroeschke,COMMENTED,,2026-05-11T15:51:36Z
+65531,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:08:10Z
+65527,jbrockmendel,mroeschke,APPROVED,,2026-05-09T00:09:37Z
+65522,oskarseweryn,jbrockmendel,APPROVED,,2026-05-08T17:52:38Z
+65520,ayshih,jorisvandenbossche,APPROVED,,2026-05-08T07:49:28Z
+65517,jbrockmendel,mroeschke,APPROVED,,2026-05-08T16:59:09Z
+65517,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-08T17:47:47Z
+65516,jbrockmendel,jorisvandenbossche,APPROVED,,2026-05-08T07:51:23Z
+65514,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:20:07Z
+65512,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:45:04Z
+65509,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:50:27Z
+65508,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:51:58Z
+65506,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:39:57Z
+65505,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:26:04Z
+65504,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:27:12Z
+65503,jbrockmendel,rhshadrach,APPROVED,"lgtm, just a few backticks that should be doubled for rst.",2026-05-07T20:53:17Z
+65503,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:24:50Z
+65499,jorisvandenbossche,jbrockmendel,APPROVED,,2026-05-07T16:10:22Z
+65497,jorisvandenbossche,mroeschke,APPROVED,Sure let's try this out!,2026-05-07T16:17:07Z
+65496,janosh,attack68,APPROVED,LGTM,2026-05-07T07:30:57Z
+65493,jbrockmendel,mroeschke,APPROVED,,2026-05-08T17:54:22Z
+65492,jbrockmendel,mroeschke,APPROVED,,2026-05-06T22:14:07Z
+65491,jbrockmendel,mroeschke,APPROVED,,2026-05-06T22:18:47Z
+65482,jorisvandenbossche,jbrockmendel,APPROVED,,2026-05-06T15:12:13Z
+65481,jorisvandenbossche,jbrockmendel,APPROVED,,2026-05-06T15:59:08Z
+65477,mitre88,jbrockmendel,COMMENTED,,2026-05-11T21:10:36Z
+65476,jbrockmendel,mroeschke,COMMENTED,,2026-05-06T22:23:25Z
+65476,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-07T00:17:27Z
+65476,jbrockmendel,mroeschke,APPROVED,,2026-05-07T16:18:31Z
+65474,Alvaro-Kothe,mroeschke,APPROVED,,2026-05-06T22:24:43Z
+65470,jorisvandenbossche,mroeschke,APPROVED,,2026-05-05T16:36:03Z
+65466,tamhahn,jorisvandenbossche,COMMENTED,"Thanks for the PR, looking good! Added a few small comments",2026-05-06T12:43:34Z
+65466,tamhahn,Dr-Irv,COMMENTED,"I didn't look at the code, but I think this would need a `whatsnew`, right?",2026-05-08T21:33:22Z
+65466,tamhahn,jorisvandenbossche,APPROVED,,2026-05-11T08:42:30Z
+65465,Dr-Irv,mroeschke,APPROVED,,2026-05-05T16:38:24Z
+65461,jorisvandenbossche,mroeschke,APPROVED,"Thanks for the follow up!
+
+Agreed that longer term, it would be good to set up a bot via a Github App to be the most secure way to manage these PRs",2026-05-04T15:21:33Z
+65459,dependabot[bot],mroeschke,APPROVED,,2026-05-04T15:07:05Z
+65455,mroeschke,jorisvandenbossche,APPROVED,,2026-05-04T10:36:54Z
+65455,mroeschke,mroeschke,COMMENTED,,2026-05-04T17:44:57Z
+65455,mroeschke,mroeschke,COMMENTED,,2026-05-04T17:45:34Z
+65455,mroeschke,jorisvandenbossche,COMMENTED,,2026-05-06T12:23:50Z
+65455,mroeschke,jorisvandenbossche,COMMENTED,,2026-05-06T12:27:19Z
+65455,mroeschke,jorisvandenbossche,COMMENTED,,2026-05-06T12:56:42Z
+65455,mroeschke,jorisvandenbossche,COMMENTED,,2026-05-07T07:28:42Z
+65455,mroeschke,jorisvandenbossche,COMMENTED,,2026-05-07T12:31:07Z
+65453,Alvaro-Kothe,jorisvandenbossche,APPROVED,,2026-05-04T12:45:13Z
+65453,Alvaro-Kothe,mroeschke,APPROVED,,2026-05-04T15:28:30Z
+65451,jbrockmendel,mroeschke,APPROVED,,2026-05-04T15:31:04Z
+65450,jbrockmendel,mroeschke,APPROVED,,2026-05-04T15:32:34Z
+65447,github-actions[bot],mroeschke,APPROVED,,2026-05-03T17:25:45Z
+65445,vkverma9534,jbrockmendel,COMMENTED,,2026-05-02T14:29:13Z
+65441,praneethhere,rhshadrach,CHANGES_REQUESTED,"This looks good, but to close out the issue we'd also need to update the API docs for `DataFrame.std` to read somethign like
+
+```rst
+        Notes
+        -----
+        To have the same behaviour as ``numpy.std``, use ``ddof=0`` (instead of the
+        default ``ddof=1``) and ``skipna=False``.
+```
+
+Note I'm also fixing the single backticks here.
+
+In addition, I think we should also add this note to all `std` methods (there are many - can search the codebase for `def std(`)",2026-05-03T13:39:43Z
+65441,praneethhere,rhshadrach,APPROVED,lgtm,2026-05-06T00:43:55Z
+65440,jbrockmendel,mroeschke,APPROVED,,2026-05-01T16:11:42Z
+65439,jbrockmendel,mroeschke,APPROVED,,2026-05-07T16:20:08Z
+65438,jbrockmendel,mroeschke,APPROVED,,2026-05-03T17:36:27Z
+65437,jbrockmendel,mroeschke,APPROVED,,2026-05-01T16:14:04Z
+65435,jbrockmendel,mroeschke,APPROVED,,2026-05-03T17:38:34Z
+65434,jbrockmendel,mroeschke,APPROVED,,2026-05-01T16:08:35Z
+65433,github-actions[bot],mroeschke,APPROVED,,2026-05-01T16:07:14Z
+65433,github-actions[bot],jorisvandenbossche,COMMENTED,,2026-05-04T13:30:54Z
+65431,jbrockmendel,jorisvandenbossche,APPROVED,"Thanks for taking a look at this!
+
+Logic of skipping it in the obvious cases looks good to me",2026-05-01T15:59:45Z
+65431,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-02T00:50:43Z
+65431,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-06T17:39:28Z
+65431,jbrockmendel,jorisvandenbossche,APPROVED,,2026-05-07T13:03:01Z
+65430,jbrockmendel,jorisvandenbossche,APPROVED,,2026-05-01T11:26:31Z
+65429,jbrockmendel,mroeschke,APPROVED,,2026-04-30T16:58:06Z
+65426,jorisvandenbossche,rhshadrach,APPROVED,"lgtm, I swear it was autocorrect or something that got me 😆 ",2026-04-30T20:19:34Z
+65424,jorisvandenbossche,mroeschke,APPROVED,,2026-04-30T16:25:09Z
+65422,jbrockmendel,mroeschke,APPROVED,,2026-05-07T16:21:20Z
+65421,jbrockmendel,mroeschke,APPROVED,,2026-04-30T16:54:02Z
+65418,jbrockmendel,mroeschke,COMMENTED,,2026-05-03T17:41:38Z
+65418,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-03T20:51:56Z
+65418,jbrockmendel,mroeschke,APPROVED,,2026-05-03T21:07:21Z
+65418,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-06T17:40:44Z
+65418,jbrockmendel,mroeschke,APPROVED,,2026-05-06T18:04:47Z
+65417,jbrockmendel,mroeschke,APPROVED,,2026-04-30T16:53:17Z
+65416,jbrockmendel,mroeschke,APPROVED,,2026-04-30T16:52:18Z
+65413,Mahajan-Sachin,rhshadrach,CHANGES_REQUESTED,Thanks for the PR!,2026-04-30T20:37:50Z
+65413,Mahajan-Sachin,Mahajan-Sachin,COMMENTED,,2026-04-30T20:48:46Z
+65413,Mahajan-Sachin,rhshadrach,APPROVED,lgtm,2026-05-06T00:45:42Z
+65411,jorisvandenbossche,mroeschke,APPROVED,,2026-04-29T16:05:58Z
+65410,jorisvandenbossche,mroeschke,APPROVED,,2026-05-06T16:59:19Z
+65409,arzaan789,jbrockmendel,COMMENTED,,2026-05-06T21:12:12Z
+65409,arzaan789,jbrockmendel,COMMENTED,,2026-05-06T21:13:44Z
+65409,arzaan789,jbrockmendel,COMMENTED,,2026-05-06T21:14:12Z
+65409,arzaan789,jbrockmendel,COMMENTED,,2026-05-06T21:15:01Z
+65409,arzaan789,arzaan789,COMMENTED,,2026-05-06T21:59:14Z
+65409,arzaan789,arzaan789,COMMENTED,,2026-05-06T22:00:10Z
+65409,arzaan789,arzaan789,COMMENTED,,2026-05-06T22:00:17Z
+65409,arzaan789,arzaan789,COMMENTED,,2026-05-06T22:00:48Z
+65405,rhshadrach,mroeschke,APPROVED,,2026-04-29T16:07:04Z
+65403,jbrockmendel,mroeschke,APPROVED,,2026-04-28T23:56:37Z
+65402,jbrockmendel,mroeschke,APPROVED,,2026-04-28T18:57:53Z
+65400,jorisvandenbossche,mroeschke,APPROVED,,2026-04-28T17:49:20Z
+65399,jorisvandenbossche,rhshadrach,APPROVED,"Nice solution, just a mypy issue I think.",2026-04-28T23:22:48Z
+65399,jorisvandenbossche,jorisvandenbossche,COMMENTED,,2026-04-29T08:03:26Z
+65399,jorisvandenbossche,jorisvandenbossche,COMMENTED,,2026-04-29T08:19:35Z
+65399,jorisvandenbossche,mroeschke,APPROVED,,2026-04-29T16:08:10Z
+65399,jorisvandenbossche,Dr-Irv,COMMENTED,,2026-05-04T20:51:50Z
+65395,jbrockmendel,mroeschke,APPROVED,,2026-05-07T16:29:35Z
+65395,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-07T20:33:20Z
+65391,jbrockmendel,mroeschke,APPROVED,,2026-04-28T17:56:33Z
+65390,jbrockmendel,mroeschke,APPROVED,,2026-04-28T17:58:40Z
+65388,jbrockmendel,mroeschke,APPROVED,,2026-04-28T18:46:39Z
+65385,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-28T07:55:25Z
+65385,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-28T15:24:59Z
+65385,jbrockmendel,mroeschke,APPROVED,,2026-04-28T18:49:03Z
+65385,jbrockmendel,jorisvandenbossche,APPROVED,,2026-04-29T08:20:38Z
+65383,jbrockmendel,mroeschke,APPROVED,,2026-04-28T18:50:05Z
+65379,jorisvandenbossche,mroeschke,APPROVED,,2026-04-27T15:38:38Z
+65374,rhshadrach,mroeschke,COMMENTED,,2026-04-27T15:49:44Z
+65374,rhshadrach,rhshadrach,COMMENTED,,2026-04-27T19:58:36Z
+65374,rhshadrach,mroeschke,APPROVED,,2026-04-27T21:09:25Z
+65371,Nikhil-jaiswal007,rhshadrach,CHANGES_REQUESTED,Thanks for the PR! See my suggestion in the linked issue.,2026-04-26T13:33:24Z
+65371,Nikhil-jaiswal007,Nikhil-jaiswal007,COMMENTED,,2026-04-26T13:55:01Z
+65371,Nikhil-jaiswal007,rhshadrach,COMMENTED,,2026-04-27T23:22:28Z
+65371,Nikhil-jaiswal007,Nikhil-jaiswal007,COMMENTED,,2026-04-29T08:11:53Z
+65371,Nikhil-jaiswal007,rhshadrach,COMMENTED,Looks good! Can you merge main and fix up the linting issues.,2026-05-03T13:44:12Z
+65371,Nikhil-jaiswal007,rhshadrach,APPROVED,lgtm,2026-05-05T21:32:19Z
+65363,jbrockmendel,mroeschke,APPROVED,,2026-04-28T18:59:32Z
+65360,harrywzl,rhshadrach,CHANGES_REQUESTED,Thanks for the PR! Some requests on the testing sytle.,2026-04-25T13:37:31Z
+65360,harrywzl,rhshadrach,APPROVED,lgtm,2026-05-03T13:50:03Z
+65359,jorisvandenbossche,mroeschke,APPROVED,,2026-04-27T15:20:04Z
+65354,jbrockmendel,mroeschke,COMMENTED,,2026-04-28T19:05:39Z
+65354,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-28T19:22:13Z
+65354,jbrockmendel,mroeschke,APPROVED,,2026-04-28T21:11:57Z
+65346,jorisvandenbossche,mroeschke,APPROVED,,2026-04-23T17:06:07Z
+65342,Vincent08199,rhshadrach,CHANGES_REQUESTED,Thanks for the PR!,2026-04-25T15:04:01Z
+65342,Vincent08199,rhshadrach,CHANGES_REQUESTED,Also needs a whatsnew note in v3.1.0rst in the `Missing` section.,2026-04-28T23:15:10Z
+65342,Vincent08199,Vincent08199,COMMENTED,,2026-04-29T00:51:20Z
+65342,Vincent08199,jbrockmendel,COMMENTED,,2026-05-02T00:54:26Z
+65342,Vincent08199,Vincent08199,COMMENTED,,2026-05-02T01:36:40Z
+65342,Vincent08199,jbrockmendel,APPROVED,,2026-05-02T01:59:16Z
+65342,Vincent08199,rhshadrach,APPROVED,lgtm,2026-05-03T13:21:37Z
+65341,jbrockmendel,mroeschke,APPROVED,,2026-04-28T19:06:23Z
+65340,jbrockmendel,mroeschke,COMMENTED,,2026-04-23T00:19:24Z
+65340,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-23T15:40:53Z
+65340,jbrockmendel,mroeschke,APPROVED,,2026-04-23T16:52:58Z
+65339,jbrockmendel,mroeschke,APPROVED,,2026-04-29T16:10:21Z
+65338,jbrockmendel,mroeschke,APPROVED,,2026-04-23T17:19:09Z
+65337,jbrockmendel,mroeschke,COMMENTED,,2026-04-29T16:16:09Z
+65337,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-06T17:40:20Z
+65337,jbrockmendel,mroeschke,APPROVED,,2026-05-06T18:03:36Z
+65335,sh4dzilla,jbrockmendel,COMMENTED,,2026-04-25T21:29:48Z
+65332,Ashish-ml-eng,copilot-pull-request-reviewer[bot],COMMENTED,"## Pull request overview
+
+Fixes an inconsistency in `DataFrame.groupby(..., as_index=False).apply(...)` where empty inputs previously produced an index with the group key name (e.g. `['A']`), while non-empty inputs produced unnamed index levels (`[None]`).
+
+**Changes:**
+- Adjust `DataFrameGroupBy._wrap_applied_output` empty-values handling to set `res_index=None` when `as_index=False`.
+- Add a regression test asserting index name parity between empty and non-empty `groupby(..., as_index=False).apply(...)`.
+
+### Reviewed changes
+
+Copilot reviewed 2 out of 2 changed files in this pull request and generated 1 comment.
+
+| File | Description |
+| ---- | ----------- |
+| `pandas/core/groupby/generic.py` | Aligns empty-apply index construction with the non-empty `as_index=False` behavior by avoiding `result_index` in the empty path. |
+| `pandas/tests/groupby/test_apply.py` | Adds coverage to ensure empty and non-empty results have consistent `index.names` when `as_index=False`. |
+
+
+
+
+
+---
+
+💡 <a href=""/pandas-dev/pandas/new/main?filename=.github/instructions/*.instructions.md"" class=""Link--inTextBlock"" target=""_blank"" rel=""noopener noreferrer"">Add Copilot custom instructions</a> for smarter, more guided reviews. <a href=""https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot"" class=""Link--inTextBlock"" target=""_blank"" rel=""noopener noreferrer"">Learn how to get started</a>.",2026-04-22T09:00:46Z
+65332,Ashish-ml-eng,rhshadrach,CHANGES_REQUESTED,Thanks for the PR! Will also need a note in the whatsnew for 3.1.,2026-04-23T20:20:15Z
+65332,Ashish-ml-eng,Ashish-ml-eng,COMMENTED,,2026-04-24T08:32:35Z
+65332,Ashish-ml-eng,rhshadrach,CHANGES_REQUESTED,Looks good! Just some requests on test style.,2026-04-25T13:44:15Z
+65332,Ashish-ml-eng,rhshadrach,APPROVED,lgtm,2026-05-05T21:34:05Z
+65331,jorisvandenbossche,mroeschke,APPROVED,,2026-04-23T16:55:14Z
+65322,jbrockmendel,mroeschke,APPROVED,,2026-04-29T16:20:48Z
+65319,jorisvandenbossche,mroeschke,APPROVED,,2026-04-21T16:46:42Z
+65318,jorisvandenbossche,jbrockmendel,APPROVED,,2026-04-21T17:55:25Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,Thanks a lot for the PR!,2026-04-21T08:48:00Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,,2026-04-21T21:00:53Z
+65316,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-21T23:23:13Z
+65316,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-21T23:34:42Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,,2026-04-22T16:01:13Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,,2026-04-22T16:12:25Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,,2026-04-22T16:15:07Z
+65316,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-22T16:47:38Z
+65316,gautamvarmadatla,jbrockmendel,APPROVED,LGTM,2026-04-28T02:04:56Z
+65316,gautamvarmadatla,jorisvandenbossche,COMMENTED,,2026-04-29T08:28:59Z
+65316,gautamvarmadatla,jorisvandenbossche,APPROVED,Thanks again!,2026-04-29T08:29:36Z
+65310,dependabot[bot],mroeschke,APPROVED,,2026-04-20T15:39:46Z
+65305,tinezivic,jbrockmendel,COMMENTED,,2026-04-20T03:06:24Z
+65302,jbrockmendel,mroeschke,APPROVED,,2026-04-21T17:21:42Z
+65301,jbrockmendel,mroeschke,COMMENTED,,2026-04-29T16:31:37Z
+65301,jbrockmendel,mroeschke,APPROVED,,2026-04-29T16:46:03Z
+65300,mroeschke,jorisvandenbossche,COMMENTED,,2026-04-23T15:35:58Z
+65300,mroeschke,jorisvandenbossche,COMMENTED,,2026-04-23T15:40:15Z
+65300,mroeschke,jorisvandenbossche,COMMENTED,,2026-04-23T15:42:07Z
+65300,mroeschke,mroeschke,COMMENTED,,2026-05-03T02:47:44Z
+65297,jbrockmendel,mroeschke,APPROVED,,2026-04-20T15:47:24Z
+65285,jbrockmendel,mroeschke,APPROVED,,2026-04-20T15:52:18Z
+65279,jbrockmendel,mroeschke,APPROVED,,2026-04-21T17:14:46Z
+65276,jbrockmendel,mroeschke,APPROVED,,2026-04-18T21:09:51Z
+65275,coolcoder152,jbrockmendel,COMMENTED,,2026-04-20T15:21:01Z
+65274,harrywzl,jbrockmendel,COMMENTED,,2026-04-18T21:41:54Z
+65274,harrywzl,harrywzl,COMMENTED,,2026-04-19T00:09:27Z
+65273,jbrockmendel,mroeschke,COMMENTED,,2026-04-18T16:55:52Z
+65273,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-18T17:05:55Z
+65273,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-18T19:15:46Z
+65273,jbrockmendel,mroeschke,APPROVED,,2026-04-18T21:08:25Z
+65272,jbrockmendel,Alvaro-Kothe,COMMENTED,"Overall, I believe vendoring OpenMP in the PyPI wheel introduces significant risk of runtime conflicts and is safer left disabled. In contrast, Conda environments can enforce a single runtime across all linked libraries, so enabling it there is a reasonable approach.",2026-04-18T11:32:01Z
+65272,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-18T16:08:05Z
+65272,jbrockmendel,Alvaro-Kothe,COMMENTED,,2026-04-18T19:42:12Z
+65271,jbrockmendel,mroeschke,APPROVED,,2026-04-17T16:00:24Z
+65268,jbrockmendel,jorisvandenbossche,COMMENTED,Generally looks good! Some comments/questions,2026-04-20T13:42:52Z
+65268,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-20T15:05:58Z
+65268,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-20T15:06:11Z
+65268,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-20T20:15:52Z
+65268,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-21T15:44:31Z
+65268,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-27T13:43:58Z
+65268,jbrockmendel,jorisvandenbossche,APPROVED,"Apart from that one remaining docstring comment, looks good to me!",2026-04-27T13:45:04Z
+65266,jbrockmendel,mroeschke,APPROVED,,2026-04-18T16:58:12Z
+65265,jbrockmendel,mroeschke,COMMENTED,,2026-05-07T17:31:32Z
+65265,jbrockmendel,mroeschke,APPROVED,,2026-05-07T20:53:38Z
+65265,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-08T17:57:14Z
+65264,jbrockmendel,mroeschke,APPROVED,,2026-04-17T16:01:59Z
+65263,preetsinghcs,jbrockmendel,COMMENTED,,2026-04-17T16:17:46Z
+65263,preetsinghcs,jbrockmendel,COMMENTED,,2026-04-17T16:18:09Z
+65260,jorisvandenbossche,mroeschke,APPROVED,,2026-04-16T16:09:17Z
+65255,jorisvandenbossche,mroeschke,COMMENTED,,2026-04-16T16:52:49Z
+65255,jorisvandenbossche,jorisvandenbossche,COMMENTED,,2026-04-16T19:25:46Z
+65255,jorisvandenbossche,mroeschke,APPROVED,,2026-04-16T19:35:07Z
+65244,jbrockmendel,mroeschke,COMMENTED,,2026-04-16T17:31:23Z
+65244,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-17T00:54:00Z
+65244,jbrockmendel,mroeschke,APPROVED,,2026-04-17T15:49:44Z
+65241,jbrockmendel,mroeschke,COMMENTED,,2026-04-20T16:23:00Z
+65241,jbrockmendel,mroeschke,COMMENTED,,2026-04-20T16:23:36Z
+65241,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-20T16:41:26Z
+65241,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-20T16:45:10Z
+65241,jbrockmendel,mroeschke,APPROVED,,2026-04-21T17:23:03Z
+65239,jbrockmendel,mroeschke,COMMENTED,,2026-04-21T17:28:32Z
+65239,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-21T17:33:26Z
+65239,jbrockmendel,mroeschke,COMMENTED,,2026-04-21T17:35:55Z
+65239,jbrockmendel,mroeschke,APPROVED,,2026-04-21T17:35:58Z
+65235,jbrockmendel,mroeschke,APPROVED,,2026-04-22T16:28:00Z
+65234,jbrockmendel,mroeschke,APPROVED,,2026-04-21T17:19:26Z
+65234,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-21T17:34:13Z
+65233,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:49:54Z
+65232,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:56:06Z
+65230,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:41:38Z
+65229,jbrockmendel,mroeschke,COMMENTED,,2026-04-16T17:54:46Z
+65229,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-16T18:33:11Z
+65229,jbrockmendel,mroeschke,APPROVED,,2026-04-16T18:42:40Z
+65225,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:37:04Z
+65224,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:48:36Z
+65221,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:47:18Z
+65219,gautamvarmadatla,Kanishka1999,COMMENTED,,2026-04-14T14:34:01Z
+65219,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-14T16:34:31Z
+65219,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-14T16:35:17Z
+65219,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-15T03:03:09Z
+65219,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-15T03:06:51Z
+65219,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-15T03:22:49Z
+65219,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-15T22:03:36Z
+65219,gautamvarmadatla,gautamvarmadatla,COMMENTED,,2026-04-16T00:56:44Z
+65219,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-24T21:59:13Z
+65219,gautamvarmadatla,jbrockmendel,COMMENTED,,2026-04-27T20:20:31Z
+65217,jbrockmendel,mroeschke,APPROVED,,2026-04-14T16:29:30Z
+65216,Alvaro-Kothe,mroeschke,APPROVED,,2026-04-14T16:24:53Z
+65216,Alvaro-Kothe,jorisvandenbossche,APPROVED,Thanks!,2026-04-14T18:49:27Z
+65211,jbrockmendel,rhshadrach,COMMENTED,This looks well worth it to me.,2026-04-25T14:23:29Z
+65211,jbrockmendel,rhshadrach,APPROVED,lgtm; should this get a whatsnew entry for 3.1?,2026-04-29T00:40:49Z
+65209,jbrockmendel,mroeschke,APPROVED,,2026-04-14T16:30:55Z
+65207,dependabot[bot],mroeschke,APPROVED,,2026-04-13T15:49:32Z
+65204,dependabot[bot],mroeschke,APPROVED,,2026-04-13T15:44:52Z
+65202,dependabot[bot],mroeschke,APPROVED,,2026-04-13T15:42:27Z
+65199,iabhi4,rhshadrach,CHANGES_REQUESTED,"Looks good, just one nit.",2026-04-14T21:54:23Z
+65199,iabhi4,iabhi4,COMMENTED,,2026-04-15T01:46:31Z
+65199,iabhi4,rhshadrach,APPROVED,lgtm,2026-04-29T00:18:05Z
+65198,jbrockmendel,mroeschke,APPROVED,,2026-04-13T15:59:51Z
+65197,jbrockmendel,mroeschke,APPROVED,,2026-04-13T15:52:58Z
+65193,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:43:32Z
+65192,jbrockmendel,rhshadrach,APPROVED,"lgtm, just a question",2026-05-09T13:30:32Z
+65192,jbrockmendel,jbrockmendel,COMMENTED,,2026-05-09T15:07:51Z
+65191,jbrockmendel,mroeschke,APPROVED,,2026-04-13T17:12:20Z
+65188,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:45:36Z
+65186,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-12T01:07:37Z
+65186,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:47:24Z
+65185,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:50:04Z
+65184,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:39:19Z
+65182,jbrockmendel,mroeschke,APPROVED,,2026-04-13T16:02:19Z
+65180,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:51:42Z
+65179,jbrockmendel,mroeschke,APPROVED,,2026-04-18T17:01:26Z
+65178,jbrockmendel,ravarnax,COMMENTED,"I'm currently learning about the performance trade-offs in pandas internals. Could you help me understand why astype() is preferred over the previous astype(""i8"").view() approach here? Is it primarily for code clarity, or does it also handle edge cases with different datetime resolutions more safely?",2026-04-13T05:19:26Z
+65177,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:45:08Z
+65176,jbrockmendel,rhshadrach,APPROVED,lgtm,2026-04-29T21:29:41Z
+65175,jbrockmendel,jorisvandenbossche,APPROVED,,2026-04-15T14:25:44Z
+65174,jbrockmendel,mroeschke,APPROVED,,2026-04-16T17:51:58Z
+65171,jbrockmendel,mroeschke,APPROVED,,2026-04-12T18:53:19Z
+65170,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-16T15:57:38Z
+65170,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-16T16:00:20Z
+65170,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-16T16:28:24Z
+65170,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-16T16:30:01Z
+65170,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-16T16:37:28Z
+65170,jbrockmendel,jorisvandenbossche,COMMENTED,,2026-04-16T16:38:54Z
+65170,jbrockmendel,jorisvandenbossche,APPROVED,,2026-04-16T16:38:57Z
+65168,jbrockmendel,mroeschke,COMMENTED,,2026-04-13T17:16:13Z
+65168,jbrockmendel,mroeschke,COMMENTED,,2026-04-13T17:18:33Z
+65168,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-13T17:30:55Z
+65168,jbrockmendel,jbrockmendel,COMMENTED,,2026-04-13T17:39:57Z
+65168,jbrockmendel,mroeschke,APPROVED,,2026-04-16T18:01:06Z
+65162,jbrockmendel,mroeschke,APPROVED,,2026-04-11T17:03:44Z
