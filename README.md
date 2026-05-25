@@ -4,7 +4,7 @@
 
 ## Research Question
 
-> Do pull requests (PR) topic patterns and contribution network differ in popular data science libraries (pandas) and newer projects (Modin), and do these differences reflect meaningful variation in community sustainability?
+> Do contributor interaction networks and pull request topic patterns differ between a mature, widely-adopted data science library (pandas) and a smaller, newer project in the same ecosystem (Modin), and do these differences reflect meaningful variation in community health and sustainability?
 
 ---
 
